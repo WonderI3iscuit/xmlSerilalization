@@ -1,0 +1,7 @@
+C:\Users\mcelhinny_benjamin\source\repos\XML serialization\XML serialization\obj\Debug\XML serialization.csprojAssemblyReference.cache
+C:\Users\mcelhinny_benjamin\source\repos\XML serialization\XML serialization\obj\Debug\XML serialization.csproj.CoreCompileInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\XML serialization\XML serialization\bin\Debug\XML serialization.exe.config
+C:\Users\mcelhinny_benjamin\source\repos\XML serialization\XML serialization\bin\Debug\XML serialization.exe
+C:\Users\mcelhinny_benjamin\source\repos\XML serialization\XML serialization\bin\Debug\XML serialization.pdb
+C:\Users\mcelhinny_benjamin\source\repos\XML serialization\XML serialization\obj\Debug\XML serialization.exe
+C:\Users\mcelhinny_benjamin\source\repos\XML serialization\XML serialization\obj\Debug\XML serialization.pdb
